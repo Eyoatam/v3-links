@@ -12,5 +12,5 @@ npm run serve || yarn serve
 npm run build || yarn build
 
 # Lints and fixes files
-npm run lint ||  yarn build
+npm run lint ||  yarn lint
 ```
